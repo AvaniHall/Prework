@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](ezgif.come-video-to-gif.gif)
+![](https://i.imgur.com/iR8vhLk.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
